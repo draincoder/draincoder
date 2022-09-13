@@ -4,8 +4,6 @@
 </h1>
 
 - I’m Python developer.
-- How to reach me: https://t.me/draincoder  **or** draincoder@gmail.com
-
-<h2 align=center>&nbsp;⚛️ Github Info ⚛️</h2>
+- My contacts: https://t.me/draincoder  **or** draincoder@gmail.com
 
 <p align="center"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=draincoder&hide_border=true&count_private=true&show_icons=true&theme=radical" alt="draincoder" align = "center"/>
