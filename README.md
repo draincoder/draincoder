@@ -1,5 +1,5 @@
 <h1 align="center">
-  Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+  Hey there <img src="https://steamuserimages-a.akamaihd.net/ugc/964242919966115092/F7D521146689CD8F5BE5E2FDE94B5D0E7F983A2C/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" width="28">
    <!-- I'm <a href="https://t.me/draincoder">Roman Pozharnov</a>!  -->
 </h1>
 
