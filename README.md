@@ -1,5 +1,5 @@
 <h1 align="center">
-  ///СODE MONEY RECORDS Ent.
+  ///СODE MONEY RECORDS
    <!-- I'm <a href="https://t.me/draincoder">Roman Pozharnov</a>!  -->
 </h1>
 
