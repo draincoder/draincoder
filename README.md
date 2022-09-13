@@ -6,4 +6,4 @@
 - I’m Python developer.
 - My contacts: https://t.me/draincoder  **or** draincoder@gmail.com
 
-<p align="center"><img height="80em" src="https://github-readme-stats.vercel.app/api?username=draincoder&hide_border=true&count_private=true&show_icons=true&theme=radical" alt="draincoder" align = "center"/>
+<p align="center"><img height="140em" src="https://github-readme-stats.vercel.app/api?username=draincoder&hide_border=true&count_private=true&show_icons=true&theme=radical" alt="draincoder" align = "center"/>
